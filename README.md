@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ankit Kumar Sharma and I'm an engineering student. I'm from Bokaro Steel City, India, living currently studying Computer Science and Engineering at Indian Institute of Technology, Varanasi.</br> </br> You can find me on [![LinkedIn][1.1]][1].
+My name is Ankit Kumar Sharma and I'm an engineering student. I'm from Bokaro Steel City, India, currently studying Computer Science and Engineering at Indian Institute of Technology, Varanasi.</br> </br> You can find me on [![LinkedIn][1.1]][1].
 
 A lot to add, but let's keep that for some other day. :p
 
